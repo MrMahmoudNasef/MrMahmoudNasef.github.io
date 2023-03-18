@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tracking-metadata version="1.0" xmlns="http://breeze.macromedia.com/ns/tracking-metadata" generator="Adobe Captivate 8">
+<objective id="Quiz10111" passing-score="13" min-score="0" max-score="16" max-questions="0">
+<name>Quiz</name>
+<interactions>
+<interaction id="64868" type="choice" quiz-type="normal" correct-response="1">
+<name>ClickBox(64868)</name>
+<title>ClickBox(64868)</title>
+<responses>
+<response id="1">1</response>
+</responses>
+</interaction>
+<interaction id="64916" type="choice" quiz-type="normal" correct-response="1">
+<name>ClickBox(64916)</name>
+<title>ClickBox(64916)</title>
+<responses>
+<response id="1">1</response>
+</responses>
+</interaction>
+<interaction id="67759" type="fill-in" quiz-type="normal" correct-response="A">
+<name>TextEntryBox(67759)</name>
+<title>TextEntryBox(67759)</title>
+<responses>
+<response id="A">&quot;checkbox&quot;</response>
+</responses>
+</interaction>
+<interaction id="70582" type="fill-in" quiz-type="normal" correct-response="A">
+<name>TextEntryBox(70582)</name>
+<title>TextEntryBox(70582)</title>
+<responses>
+<response id="A">&quot;onclick&quot;,&quot;on click&quot;</response>
+</responses>
+</interaction>
+<interaction id="73405" type="fill-in" quiz-type="normal" correct-response="A">
+<name>TextEntryBox(73405)</name>
+<title>TextEntryBox(73405)</title>
+<responses>
+<response id="A">&quot;return f1()&quot;,&quot;return f1 ()&quot;</response>
+</responses>
+</interaction>
+</interactions>
+</objective>
+</tracking-metadata>
