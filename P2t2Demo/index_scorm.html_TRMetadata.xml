@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tracking-metadata version="1.0" xmlns="http://breeze.macromedia.com/ns/tracking-metadata" generator="Adobe Captivate 8">
+<objective id="Quiz10111" passing-score="13" min-score="0" max-score="16" max-questions="0">
+<name>Quiz</name>
+<interactions>
+<interaction id="88664" type="fill-in" quiz-type="normal" correct-response="A">
+<name>TextEntryBox(88664)</name>
+<title>TextEntryBox(88664)</title>
+<responses>
+<response id="A">&quot;submit&quot;</response>
+</responses>
+</interaction>
+<interaction id="91487" type="fill-in" quiz-type="normal" correct-response="A">
+<name>TextEntryBox(91487)</name>
+<title>TextEntryBox(91487)</title>
+<responses>
+<response id="A">&quot;name&quot;</response>
+</responses>
+</interaction>
+<interaction id="94310" type="fill-in" quiz-type="normal" correct-response="A">
+<name>TextEntryBox(94310)</name>
+<title>TextEntryBox(94310)</title>
+<responses>
+<response id="A">&quot;value&quot;</response>
+</responses>
+</interaction>
+<interaction id="97133" type="fill-in" quiz-type="normal" correct-response="A">
+<name>TextEntryBox(97133)</name>
+<title>TextEntryBox(97133)</title>
+<responses>
+<response id="A">&quot;action&quot;</response>
+</responses>
+</interaction>
+</interactions>
+</objective>
+</tracking-metadata>

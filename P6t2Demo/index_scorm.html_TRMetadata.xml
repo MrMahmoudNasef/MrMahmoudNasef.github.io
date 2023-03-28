@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tracking-metadata version="1.0" xmlns="http://breeze.macromedia.com/ns/tracking-metadata" generator="Adobe Captivate 8">
+<objective id="Quiz10111" passing-score="64" min-score="0" max-score="80" max-questions="0">
+<name>Quiz</name>
+<interactions>
+<interaction id="88812" type="choice" quiz-type="normal" correct-response="1">
+<name>ClickBox(88812)</name>
+<title>ClickBox(88812)</title>
+<responses>
+<response id="1">1</response>
+</responses>
+</interaction>
+<interaction id="83099" type="choice" quiz-type="normal" correct-response="1">
+<name>ClickBox(83099)</name>
+<title>ClickBox(83099)</title>
+<responses>
+<response id="1">1</response>
+</responses>
+</interaction>
+<interaction id="99941" type="choice" quiz-type="normal" correct-response="1">
+<name>ClickBox(99941)</name>
+<title>ClickBox(99941)</title>
+<responses>
+<response id="1">1</response>
+</responses>
+</interaction>
+<interaction id="82568" type="choice" quiz-type="normal" correct-response="1">
+<name>ClickBox(82568)</name>
+<title>ClickBox(82568)</title>
+<responses>
+<response id="1">1</response>
+</responses>
+</interaction>
+<interaction id="83503" type="choice" quiz-type="normal" correct-response="1">
+<name>ClickBox(83503)</name>
+<title>ClickBox(83503)</title>
+<responses>
+<response id="1">1</response>
+</responses>
+</interaction>
+</interactions>
+</objective>
+</tracking-metadata>

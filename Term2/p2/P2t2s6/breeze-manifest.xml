@@ -8,9 +8,11 @@
 			
 			
 <file href="goodbye.html"/>
-<file href="index_scorm.html"/>
 <file href="project.txt"/>
-<file href="ar/Mouse.mp3"/>
+<file href="index_scorm.html"/>
+<file href="assets/js/CPM.js"/>
+<file href="assets/js/jquery-3.3.1.min.js"/>
+<file href="assets/js/CPXHRLoader.js"/>
 <file href="assets/css/CPLibraryAll.css"/>
 <file href="assets/css/start/jquery-ui-1.11.4.custom.css"/>
 <file href="assets/css/start/jquery-ui-1.11.4.custom.min.css"/>
@@ -147,9 +149,6 @@
 <file href="assets/htmlimages/VR_menu_select@2x.png"/>
 <file href="assets/htmlimages/VR_move_left.png"/>
 <file href="assets/htmlimages/VR_move_right.png"/>
-<file href="assets/js/CPM.js"/>
-<file href="assets/js/CPXHRLoader.js"/>
-<file href="assets/js/jquery-3.3.1.min.js"/>
 <file href="assets/toc/tocIcons/blankBookmark.png"/>
 <file href="assets/toc/tocIcons/clear.png"/>
 <file href="assets/toc/tocIcons/expander.png"/>
@@ -163,11 +162,12 @@
 <file href="assets/TOC_icons/collapseIcon.png"/>
 <file href="assets/TOC_icons/expandIcon.png"/>
 <file href="assets/TOC_icons/photo.png"/>
+<file href="dr/loading.gif"/>
+<file href="dr/imgmd.json"/>
 <file href="dr/img1.json"/>
 <file href="dr/img2.json"/>
 <file href="dr/img3.json"/>
-<file href="dr/imgmd.json"/>
-<file href="dr/loading.gif"/>
+<file href="ar/Mouse.mp3"/>
 <file href="metadata.xml"/>
 <file href="SCORM_utilities.js"/>
 <file href="Utilities.js"/>
